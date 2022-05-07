@@ -1,2 +1,6 @@
 # odin-recipes
-Lesson Plan - list food recipes
+
+Odin-Recipes
+My Favorite Food
+
+
