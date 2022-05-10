@@ -11,3 +11,8 @@ h1 {
     display: inline-block;
     margin: 0 10px;
 }
+
+dt {
+    font-family: Ubuntu, monospace;
+    font-size: large;
+}
