@@ -3,7 +3,7 @@ h1 {
     text-align: center;
     font-size: 8vmin;
 }
- nav{
+nav{
      text-align: center;
  }
 
@@ -15,4 +15,11 @@ h1 {
 dt {
     font-family: Ubuntu, monospace;
     font-size: large;
+}
+
+.about_list {
+    list-style-type: disc;
+}
+.about_sublist {
+    list-style-type: square;
 }
