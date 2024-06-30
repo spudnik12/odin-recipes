@@ -35,3 +35,19 @@ dt {
 .measurement {
     
 }
+/* Links */
+a {
+    color: black;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited{
+    color: grey;
+}
+
+a:active {
+    color: red;
+}
